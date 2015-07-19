@@ -1,2 +1,1 @@
-## This is a markdown file test 
-## part 2 of test
+## This is a markdown file test
